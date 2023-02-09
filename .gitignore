@@ -1,2 +1,6 @@
 # protection de la configuration
 config.php
+# PHPStorm
+.idea/
+# Workbench
+data/mvcprojetsV1.mvb.bak
